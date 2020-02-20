@@ -1,0 +1,19 @@
+
+
+O sistema terá como linguagem de programação Python, devido a seus recursos de extensibilidade 
+permitem integrar componentes Java, .NET e invocar bibliotecas de C e C++, além de ser muito utilizado
+em Inteligência Artificial por conta de algumas bibliotecas como Keras e TensorFlow entre outras 
+que facilitam inclusive o reconhecimento de imagens e também Python possui muitas estruturas de 
+testes integrados, inclusive durante a execução do programa.
+Os dados serão armazenados em nuvem, será utilizado linguagem SQL e utilizará o software SQL Server.
+O software utilizará GPS para localizar o passageiro mais próximo e decidir qual viagem aceitar
+baseado na menor distância.
+Será disponibilizada uma página WEB do veículo voador, também escrita em Python e será usado o 
+Framework Django.
+
+
+
+ 
+ 
+
+

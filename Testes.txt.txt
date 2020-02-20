@@ -1,0 +1,34 @@
+OK
+
+O sistema deve fazer viagem rápidas com passageiros.
+O sistema deve fazer um carro voar.
+O sistema deve realizar viagens por até 10 dólares.
+O sistema será movido à eletricidade, onde deve armazenar a energia em baterias.
+O sistema de baterias deverá ser recarregado a cada 20 KM.
+O sistema terá postos de recarga previamente cadastrados em sua programação.
+O sistema será permitido a atingir a altura máxima de 150 metros e velocidade máxima de 50 km/h.
+O sistema deverá permitir a partida somente se todos os passageiros estiverem de sinto de segurança.
+O sistema contará com opção de bebê conforto e será acessível a deficiente físico e cadeirantes.
+O sistema permitirá o acesso de cão guia e não será permitido entrada de outros animais.
+O sistema será autônomo, não haverá motorista/condutor no veículo.
+O sistema terá suas viagens contratadas através de aplicativo, onde o usuário deverá 
+ter um cartão de crédito válido para acessar o interior do veículo e realiza a viagem, 
+deverá inserir o destino para o sistema calcular a rota e verificar se há um ponto de pouso seguro
+e as condições climáticas, sendo essas impeditivas em caso prejudicial a estabilidade do veículo.
+O sistema terá somente cartão de crédito/débito como forma de pagamento, sendo que este deve pertencer
+ao usuário do aplicativo e carro voador.
+O sistema terá pontos de pouso definidos, como estações de metrô, semelhantes a heliponto, devido
+o sistema ser totalmente autônomo o local de pouso deve atender as condições de segurança do veículo
+e dos passageiros.
+O sistema deverá tirar uma foto dos usuários ao entrar no carro, para controle e segurança.
+O sistema deverá permitir no máximo 3 pessoas e limite de peso de 500 kg, já incluso bagagens.
+O sistema ofertará bebidas não alcolicas, salgados e doces em seu interior, acessados através de
+aplicativo ou máquina de cartão.
+
+
+
+
+ 
+ 
+
+

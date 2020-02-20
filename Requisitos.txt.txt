@@ -1,0 +1,17 @@
+A empresa X precisa desenvolver o carro voador.
+Para viagens com passageiros rápidas
+por até 10 dolares por viagem.
+
+
+O sistema deve fazer viagem rápidas com passageiros.
+O sistema deve fazer um carro voar.
+O sistema deve realizar viagens por até 10 dólares.
+O sistema será movido à eletricidade, onde deve armazenar a energia em baterias.
+
+
+
+
+ 
+ 
+
+
